@@ -1,0 +1,30 @@
+{
+  "name": "ca-2019-poe",
+  "version": "1.0.0",
+  "description": "The proof of existence package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "My documents with proof"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarshchaini/ca-2019-poe.git"
+  },
+  "keywords": [
+    "poe",
+    "ethereum",
+    "consensys",
+    "academy",
+    "solidity",
+    "openzeppelin",
+    "truffle",
+    "ganache",
+    "pantheon"
+  ],
+  "author": "adarsh ranjan chaini",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/adarshchaini/ca-2019-poe/issues"
+  },
+  "homepage": "https://github.com/adarshchaini/ca-2019-poe#readme"
+}
